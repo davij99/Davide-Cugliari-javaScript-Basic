@@ -27,9 +27,11 @@ Javascript, HTML, CSS
 
 
 
-## preview
+## Preview
 ![grab-landing-page](https://github.com/davij99/Davide-Cugliari-javaScript-Basic/blob/main/img/counter_gif.gif)
 
+## Test the app
+[Test my counter app](https://davij99.github.io/Davide-Cugliari-javaScript-Basic/)
 
 
 ## Feedback
